@@ -1,0 +1,22 @@
+{
+  "name": "tutorial1",
+  "version": "1.0.0",
+  "description": "desc test",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "node servidor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankkismann/nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "appsource",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frankkismann/nodejs/issues"
+  },
+  "homepage": "https://github.com/frankkismann/nodejs#readme"
+}
